@@ -7,3 +7,7 @@ I'm Senior Software Engineer with more than 15 years of experience.
 You will be able to find my centralized collection of links in here: https://www.allmylinks.com/efonsecabcr
 
 ![Efonsecab's GitHub stats](https://github-readme-stats.vercel.app/api?username=efonsecab&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efonsecab)
+
+Stats Powered by https://github.com/anuraghazra/github-readme-stats
