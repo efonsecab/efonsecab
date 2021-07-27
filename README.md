@@ -18,6 +18,10 @@ You will be able to find my centralized collection of links in here: https://www
 * Send me an email to my LinkedIn: https://www.linkedin.com/in/pticostarica/
 * Send me a Direct Message on Twitter: https://twitter.com/efonsecabcr
 
+#### How to hire me?
+* Company Upwork Profile(Preferred): https://www.upwork.com/o/companies/~018326649e4bb0a1a0
+* Personal Upwork Profile: https://www.upwork.com/o/profiles/users/~01dfba7bd0d1f23c9f/
+
 #### My Stats
 ![Efonsecab's GitHub stats](https://github-readme-stats.vercel.app/api?username=efonsecab&show_icons=true&count_private=true)
 
