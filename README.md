@@ -14,6 +14,11 @@ I'm Senior Software Engineer with more than 15 years of experience.
 
 You will be able to find my centralized collection of links in here: https://www.allmylinks.com/efonsecabcr
 
+#### My creations
+* "PTI.Microservices.Library" nuget packages: https://www.nuget.org/packages?q=PTI.Microservices.Library
+* Customer Finder: https://customerfinder.pticostarica.com/
+* Food Info: https://foodinfo.pticostarica.com/
+
 #### How to reach me?
 * Send me an email to my LinkedIn: https://www.linkedin.com/in/pticostarica/
 * Send me a Direct Message on Twitter: https://twitter.com/efonsecabcr
