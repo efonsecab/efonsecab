@@ -19,6 +19,9 @@ You will be able to find my centralized collection of links in here: https://www
 * Customer Finder: https://customerfinder.pticostarica.com/
 * Food Info: https://foodinfo.pticostarica.com/
 
+#### Our APIs
+* Subscribe to PTI Costa Rica APIs: https://rapidapi.com/organization/pti-costa-rica
+
 #### How to reach me?
 * Send me an email to my LinkedIn: https://www.linkedin.com/in/pticostarica/
 * Send me a Direct Message on Twitter: https://twitter.com/efonsecabcr
