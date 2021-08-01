@@ -14,6 +14,11 @@ I'm Senior Software Engineer with more than 15 years of experience.
 
 You will be able to find my centralized collection of links in here: https://www.allmylinks.com/efonsecabcr
 
+#### You can help keep projects free by sponsoring and buying my products
+* [Buy me a Coffee](https://www.buymeacoffee.com/efonsecab)
+* [Amazon Books](https://www.amazon.com/kindle-dbs/entity/author/B07QZKVV2C?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader)
+* [Patreon](https://www.patreon.com/pticostarica)
+
 #### Currently working on
 * [FairPlayTube](https://github.com/efonsecab/FairPlayTube)
 
@@ -32,11 +37,6 @@ You will be able to find my centralized collection of links in here: https://www
 #### How to hire me?
 * Company Upwork Profile(Preferred): https://www.upwork.com/o/companies/~018326649e4bb0a1a0
 * Personal Upwork Profile: https://www.upwork.com/o/profiles/users/~01dfba7bd0d1f23c9f/
-
-#### You can help keep projects free by sponsoring and buying my products
-* [Buy me a Coffee](https://www.buymeacoffee.com/efonsecab)
-* [Amazon Books](https://www.amazon.com/kindle-dbs/entity/author/B07QZKVV2C?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader)
-* [Patreon](https://www.patreon.com/pticostarica)
 
 #### Something about me?
 * One of my many dreams is to have my company generating enough revenue to be able to donate generous amounts of money to people in need.
