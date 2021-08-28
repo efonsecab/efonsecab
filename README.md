@@ -14,6 +14,13 @@ I'm Senior Software Engineer with more than 15 years of experience.
 
 You will be able to find my centralized collection of links in here: https://www.allmylinks.com/efonsecabcr
 
+⭐️⭐️⭐️⭐️⭐️
+
+We offer Custom Software Development on technologies such as Blazor, .NET, & Microsoft Azure, you can hire our services here
+https://www.upwork.com/workwith/eduardofonseca
+
+⭐️⭐️⭐️⭐️⭐️
+
 #### You can help keep projects free by sponsoring and buying my products
 * [Buy me a Coffee](https://www.buymeacoffee.com/efonsecab)
 * [Amazon Books](https://www.amazon.com/kindle-dbs/entity/author/B07QZKVV2C?_encoding=UTF8&node=283155&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader)
