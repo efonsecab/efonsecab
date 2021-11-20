@@ -2,6 +2,7 @@
 #### Welcome to my GitHub
 
 <!-- CUSTOM-BADGES:START -->
+![](https://vistr.dev/badge?repo=efonsecab)
 ![GitHub followers](https://img.shields.io/github/followers/efonsecab?style=social) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/efonsecabcr?style=social)](https://www.twitter.com/efonsecabcr)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCo5JxX0o6I_whTQTFAuXbXg?style=social)](https://www.youtube.com/channel/UCo5JxX0o6I_whTQTFAuXbXg)
