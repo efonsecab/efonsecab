@@ -7,6 +7,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/efonsecabcr?style=social)](https://www.twitter.com/efonsecabcr)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCo5JxX0o6I_whTQTFAuXbXg?style=social)](https://www.youtube.com/channel/UCo5JxX0o6I_whTQTFAuXbXg)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCo5JxX0o6I_whTQTFAuXbXg?style=social)](https://www.youtube.com/channel/UCo5JxX0o6I_whTQTFAuXbXg)
+[![](https://img.shields.io/badge/-Eduardo%20Fonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pticostarica/)](https://www.linkedin.com/in/pticostarica/)
+
 <!-- CUSTOM-BADGES:END -->
 
 #### About My GitHub
