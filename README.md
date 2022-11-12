@@ -30,7 +30,7 @@ https://www.upwork.com/workwith/eduardofonseca
 * [Patreon](https://www.patreon.com/pticostarica)
 
 #### Currently working on
-* [FairPlayTube](https://github.com/efonsecab/FairPlayTube)
+* [FairPlay Initiative](https://github.com/efonsecab/FairPlay-Software)
 
 #### My creations
 * "PTI.Microservices.Library" nuget packages: https://www.nuget.org/packages?q=PTI.Microservices.Library
