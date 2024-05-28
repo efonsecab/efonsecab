@@ -29,7 +29,7 @@ Creator of [FairPlayCombined](https://github.com/pticostaricags/FairPlayCombined
 
 #### Currently working on
 * [FairPlay Initiative](https://github.com/efonsecab/FairPlay-Software)
-* FairPlayCombined(https://github.com/pticostaricags/FairPlayCombined)
+* [FairPlayCombined](https://github.com/pticostaricags/FairPlayCombined)
 
 #### My creations
 * FairPlayCombined: https://github.com/pticostaricags/FairPlayCombined
