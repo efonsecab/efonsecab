@@ -61,7 +61,6 @@ There is a profound commitment here to support those who dedicate their lives to
 
 ## Global Reach & Privacy
 * **Additional Languages:** Generation of SRT files in any extra language for **$10.00 USD per language**.
-* **Privacy & Security:** Specialized processing for blurring sensitive visual elements to ensure data protection.
 
 ---
 
