@@ -1,5 +1,8 @@
 # Service Proposal: Audiovisual Intelligence & Strategic Content Synthesis
 
+* [English](https://efonsecab.github.io/efonsecab/)
+* [Español](https://efonsecab-github-io.translate.goog/efonsecab/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
+
 ## Overview
 We transform raw video content into structured, high-value assets. By combining a sophisticated technical framework with a specialized analytical perspective, we extract hidden knowledge and repurpose it into impactful formats to maximize your reach, organization, and influence.
 
