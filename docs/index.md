@@ -73,5 +73,5 @@ Every project is managed with the utmost professionalism. These analytical and c
 ---
 
 ### Contact
-To begin processing your material or to request a customized quote for long-duration production projects, please get in touch. Send me a message to LinkedIn: https://www.linkedin.com/in/pticostarica
+To begin processing your material or to request a customized quote for long-duration production projects, please get in touch. Send me a message on LinkedIn: https://www.linkedin.com/in/pticostarica
 
