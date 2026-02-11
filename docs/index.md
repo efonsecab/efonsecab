@@ -81,6 +81,7 @@ Witness how heart-centered lyrics and advanced technology harmonize to create me
 | **Agradecido Estaré** | Country | Spanish | Male (V2) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/agradecido-estare-country-male) |
 | **Always Give a Smile** | Country | English | Male (V2) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/always-give-a-smile-country) |
 | **The Power Within** | Pop | English | Female (V1) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/the-power-within-pop-female-v1) |
+| **Her nights** | Country | English | Female (V2) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/her-nights-country-female-v2) |
 
 ---
 
