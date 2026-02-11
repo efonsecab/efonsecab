@@ -71,26 +71,32 @@ Every project is managed with the utmost professionalism. These analytical and c
 
 ---
 
+## 🎧 Experience the Harmony: Project Samples
+
+Witness how heart-centered lyrics and advanced technology harmonize to create messages of hope, gratitude, and strength. These samples showcase the emotional range and professional curation I provide as an **HSP** and **Technical Architect**.
+
+| Song Title | Genre | Language | Vocal Style | Listen |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tu Voz** | Country | Spanish | Male (V1) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/tu-voz-country-male-v1) |
+| **Agradecido Estaré** | Country | Spanish | Male (V2) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/agradecido-estare-country-male) |
+| **Always Give a Smile** | Country | English | Male (V2) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/always-give-a-smile-country) |
+| **The Power Within** | Pop | English | Female (V1) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/the-power-within-pop-female-v1) |
+
+---
+
 ## 🎵 Creative & Songwriting Services
 
 Technology and art converge to serve a higher purpose. These services are designed for those who wish to express deep emotions, faith, or psychological insights through the power of music and words.
 
----
-
 ### ✍️ Lyricist: Lyrics with Purpose and Depth
-Every song starts with a heartbeat. As an **HSP (Highly Sensitive Person)** with a foundation in Psychology, I capture the nuances of the human experience to create lyrics that resonate with the soul. I craft words that honor your vision, whether for personal worship, relationship milestones, or emotional healing.
+Every song starts with a heartbeat. As an **HSP (Highly Sensitive Person)** with a foundation in Psychology, I capture the nuances of the human experience to create lyrics that resonate with the soul.
 
-* **Native Spanish Composition:** Deep, poetic, and spiritually grounded lyrics in my native language.
-* **English Composition:** Carefully crafted lyrics that maintain emotional resonance and metric flow in English.
+* **Native Spanish Composition:** Deep, poetic, and spiritually grounded lyrics.
+* **English Composition:** Carefully crafted lyrics that maintain emotional resonance and metric flow.
 * **Themes:** Faith-based, Healthy Relationships, Emotional Growth, and Personal Triumphs.
-* **Deliverables:** Complete song structure (Verses, Chorus, Bridge) with a rhythmic and metric guide.
 
 ### 🤖 AI-Powered Song Production
-Transforming words into a complete auditory experience. I utilize advanced AI tools to bridge the gap between written lyrics and a professional-grade song. My role is that of a **Technical Curator**, ensuring the style, melody, and atmosphere perfectly match the intention of your message.
-
-* **Process:** I take your lyrics (provided by you or created by me) and generate high-quality audio versions.
-* **Deliverables:** Two polished versions of the song in high-fidelity (WAV/MP3).
-* **Customization:** Tailored genre selection (Worship, Acoustic, Cinematic, etc.) to fit the emotional frequency of the piece.
+I utilize advanced AI tools as a **Technical Curator**, ensuring the style, melody, and atmosphere perfectly match the intention of your message.
 
 ---
 
@@ -98,8 +104,8 @@ Transforming words into a complete auditory experience. I utilize advanced AI to
 
 | Service | Investment | Professional Value |
 | :--- | :--- | :--- |
-| **Lyricist (Spanish)** | **$65.00** | Native fluency with deep psychological and spiritual storytelling. |
-| **Lyricist (English)** | **$85.00** | Specialized composition requiring additional focus on nuance and meter. |
+| **Lyricist (Spanish)** | **$65.00** | Native fluency with deep spiritual storytelling. |
+| **Lyricist (English)** | **$85.00** | Specialized composition with precise nuance. |
 | **AI Song Production** | **$45.00** | Expert technical curation and aesthetic refinement. |
 | **Spanish Creator Combo** | **$100.00** | Integrated creation (Spanish lyrics + AI Production). |
 | **English Creator Combo** | **$120.00** | Integrated creation (English lyrics + AI Production). |
@@ -107,7 +113,7 @@ Transforming words into a complete auditory experience. I utilize advanced AI to
 ---
 
 ### 🕊️ Integrity and Inspiration
-In every line written and every note generated, I seek to reflect the beauty of the talents God has provided. It is a privilege to help you turn your inspiration into a blessing for others. May these creations serve as a vessel for light, connection, and healing.
+In every line written and every note generated, I seek to reflect the excellence and beauty of the talents God has provided. It is a privilege to help you turn your inspiration into a blessing for others. May these creations serve as a vessel for light and connection.
 
 ---
 
