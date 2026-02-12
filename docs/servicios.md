@@ -1,5 +1,7 @@
 # Propuesta de Servicio: Inteligencia Audiovisual y Síntesis Estratégica de Contenido
 
+[English](index.md)
+
 ## Resumen
 Transformamos contenido de video bruto en activos estructurados de alto valor. Al combinar un marco técnico sofisticado con una perspectiva analítica especializada, extraemos el conocimiento profundo y lo reutilizamos en formatos impactantes para maximizar su alcance, organización e influencia.
 
