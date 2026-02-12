@@ -1,5 +1,7 @@
 # Service Proposal: Audiovisual Intelligence & Strategic Content Synthesis
 
+[Spanish](servicios.md)
+
 ## Overview
 We transform raw video content into structured, high-value assets. By combining a sophisticated technical framework with a specialized analytical perspective, we extract hidden knowledge and repurpose it into impactful formats to maximize your reach, organization, and influence.
 
