@@ -1,6 +1,34 @@
-# Propuesta de Servicio: Inteligencia Audiovisual y Síntesis Estratégica de Contenido
+# Resumen Ejecutivo: Arquitectura para el Corazón y el Alma
 
 [English](index.md)
+
+## Una Trayectoria de Síntesis
+Mi trayectoria profesional es un puente entre dos décadas de arquitectura técnica y un llamado hacia la **Psicología**. Tras 20 años diseñando sistemas digitales como profesional costarricense, me encuentro en una transición hacia una vida dedicada a la arquitectura más vital de todas: la conexión humana y el autoconocimiento. En **septiembre de 2026**, iniciaré la siguiente etapa de mi formación formal en **Madrid** para profundizar en esta especialidad.
+
+---
+
+## La Misión: Autoconocimiento y Vínculos Sanos
+Mi objetivo principal es ayudar a las personas a conocerse profundamente y brindar la educación necesaria para establecer **relaciones sanas y duraderas**. Esta misión nace de la convicción de que, al comprender nuestro propio diseño, podemos amar mejor a quienes nos rodean.
+
+Como **Persona Altamente Sensible (PAS)**, utilizo mi sensibilidad para percibir los matices que las herramientas técnicas suelen pasar por alto. Integro estas perspectivas en mi serie de libros y mis servicios creativos, asegurando que cada proyecto sea una mayordomía de los talentos que Dios me ha brindado.
+
+---
+
+## Fortalezas de Carácter en el Centro
+Mi enfoque se guía por las fortalezas personales que definen mi mejor versión:
+
+* **Humor:** Disfruto sacar sonrisas a los demás y utilizar la alegría para hacer más llevaderas las situaciones difíciles.
+* **Espiritualidad:** Mi fe y mi profundo sentido de propósito moldean mi conducta y me brindan consuelo en momentos de desafío.
+* **Esperanza:** Soy un optimista orientado al futuro que cree en la bondad de lo que está por venir y establece metas para alcanzarlo.
+* **Juicio:** Evalúo la información minuciosamente y analizo los problemas desde todos los ángulos para encontrar un punto de vista equilibrado y preciso.
+* **Curiosidad:** Mantengo un interés activo en el misterio de la vida, buscando siempre nuevas formas de aprender y crecer.
+
+---
+
+## Visión Profesional
+Ya sea a través de mis libros publicados en **Amazon**, mis próximos talleres en Europa o mis servicios audiovisuales creativos, mantengo el compromiso de ser un instrumento de luz y sanidad. Confío en que la tecnología y la psicología, unidas a la fe y la intención, pueden transformar vidas.
+
+# Propuesta de Servicio: Inteligencia Audiovisual y Síntesis Estratégica de Contenido
 
 ## Resumen
 Transformamos contenido de video bruto en activos estructurados de alto valor. Al combinar un marco técnico sofisticado con una perspectiva analítica especializada, extraemos el conocimiento profundo y lo reutilizamos en formatos impactantes para maximizar su alcance, organización e influencia.
