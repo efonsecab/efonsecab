@@ -1,6 +1,34 @@
-# Service Proposal: Audiovisual Intelligence & Strategic Content Synthesis
+# Executive Summary: Architecture for the Heart and Soul
 
 [Spanish](servicios.md)
+
+## A Journey of Synthesis
+My professional path represents a harmony between two decades of technical architecture and a calling toward **Psychology**. After 20 years of crafting digital systems as a professional from Costa Rica, I am now transitioning toward a life dedicated to the most vital architecture of all: human connection and self-discovery. In **September 2026**, I will begin the next stage of my formal training in **Madrid** to deepen this expertise.
+
+---
+
+## The Mission: Self-Discovery & Healthy Bonds
+My main objective is to help people get to know themselves deeply and to provide the education necessary to establish **healthy, long-lasting relationships**. This mission is rooted in the belief that when we understand our own design, we can better love those around us. 
+
+As a **Highly Sensitive Person (HSP)**, I utilize my sensitivity to see the nuances that technical tools often overlook. I integrate these insights into my book series and my creative services, ensuring that every project is a stewardship of the talents God has provided.
+
+---
+
+## Character Strengths at the Core
+My approach is guided by the signature strengths that define my best self:
+
+* **Humor:** I enjoy bringing smiles to others' faces and using playfulness to make difficult situations more bearable.
+* **Spirituality:** My faith and deep sense of purpose shape my conduct and provide comfort during times of challenge.
+* **Hope:** I am a future-minded optimist who believes in the goodness of what is to come and sets goals to achieve it.
+* **Judgment:** I weigh information thoroughly and look at problems from all angles to find a balanced, accurate viewpoint.
+* **Curiosity:** I take an active interest in the mystery of life, always seeking new ways to learn and grow.
+
+---
+
+## Professional Vision
+Whether through my books published on **Amazon**, my upcoming workshops in Europe, or my creative audiovisual services, I am committed to being a vessel for light and healing. I trust that technology and psychology, when combined with faith and intention, can transform lives.
+
+# Service Proposal: Audiovisual Intelligence & Strategic Content Synthesis
 
 ## Overview
 We transform raw video content into structured, high-value assets. By combining a sophisticated technical framework with a specialized analytical perspective, we extract hidden knowledge and repurpose it into impactful formats to maximize your reach, organization, and influence.
