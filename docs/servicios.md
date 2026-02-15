@@ -44,7 +44,7 @@ Un análisis exhaustivo de su "código fuente humano". Este servicio de varias e
 
 ### 3. Práctica de "Presencia y Resonancia"
 Este servicio combina la conciencia activa con sus mejores cualidades para ayudarle a estar auténticamente presente y reducir el estrés en entornos de alta presión.
-* [cite_start]**Paso 1: Evaluación de Conciencia:** Analizamos sus habilidades de observación, descripción y respuesta consciente.
+* **Paso 1: Evaluación de Conciencia:** Analizamos sus habilidades de observación, descripción y respuesta consciente.
 * **Paso 2: Integración Consciente:** Le muestro cómo usar sus mejores rasgos para cultivar los **Frutos del Espíritu** en sus interacciones diarias.
 
 | Inversión | Componentes |
