@@ -1,159 +1,12 @@
 # Executive Summary: Architecture for the Heart and Soul
 
-[Spanish](servicios.md)
-
----
-
-# Self-Discovery Mentorship & Strategic Content Architecture
-
-As an author and professional with 20 years in Technical Architecture now transitioning into **Psychology**, I help individuals understand their core design to build healthy, lasting bonds. I integrate structured technical precision with a sensitive, faith-centered perspective to bring order and clarity to your personal growth.
-
----
-
-## 🛡️ Professional Ethics & Transparency
-Please note that while I am a dedicated student of the human experience and will begin formal Psychology studies in **Madrid** in **September 2026**, **I am not a licensed psychologist, nor do I provide clinical therapy or diagnostic services**. My work consists of **educational mentorship and strategic coaching** based on my published works and scientifically validated identity frameworks. If you require mental health treatment, please consult a licensed healthcare professional.
-
----
-
-## 📑 Strategic Mentorship & Identity Blueprinting
-In these sessions, we use a validated scientific assessment as a baseline for a much deeper strategic transformation. **All prices include the necessary assessment tools.**
-
-### 1. "Identity Essence" Strategy Session
-This is not just a report; it is a deep dive into the core qualities that define your authentic self. We use a baseline assessment to identify your primary strengths and build a strategy to thrive.
-* **Step 1: The Assessment:** We begin with a scientific profile of your positive personality traits.
-* **Step 2: Analysis:** I help you understand how these traits shape your thoughts and how others perceive your best version.
-* **Step 3: Implementation:** We design 3-5 specific activities to apply these natural talents to your current life challenges.
-
-| Investment | Components |
-| :--- | :--- |
-| **$85.00 USD** | Scientific Profile + 45-minute strategic analysis session. |
-
----
-
-### 2. "Human Architecture" Transformation
-A comprehensive analysis of your "human source code." This multi-stage service identifies how to balance your energy and navigate life’s complexities with confidence.
-* **Step 1: Deep Mapping:** We evaluate your full spectrum of 24 core traits to see the big picture.
-* **Step 2: Balance Audit:** I identify where you may be overusing or underusing your natural capacities, preventing burnout.
-* **Step 3: Strategic Roadmap:** We create a plan to leverage your secondary traits to support your main goals.
-
-| Investment | Components |
-| :--- | :--- |
-| **$195.00 USD** | Full Identity Audit + 2 Strategic sessions (90 mins total) + Personalized Roadmap. |
-
----
-
-### 3. "Presence & Resonance" Practice
-This service combines active awareness with your best qualities to help you remain authentically present and reduce stress in high-pressure environments.
-* **Step 1: Awareness Evaluation:** We analyze your skills in observation, description, and non-reactive awareness.
-* **Step 2: Conscious Integration:** I show you how to use your best traits to cultivate the **Fruits of the Spirit** in your daily interactions.
-
-| Investment | Components |
-| :--- | :--- |
-| **$110.00 USD** | Awareness Evaluation + Resonance Analysis Session + Guided Practice Plan. |
-
----
-
-## 📖 Author Mentorship & Amazon Publishing
-Leveraging my experience as a published author, I help you turn your message into a global blessing.
-
-* **Author Credential:** Author of the series *"Relaciones de pareja sanas y duraderas"* and *"The Power of Love"*.
-* **Strategic Roadmap:** I guide you through manuscript structure, technical KDP navigation, and SEO optimization to ensure your voice reaches every heart.
-
-| Service | Investment | Professional Value |
-| :--- | :--- | :--- |
-| **Publishing Consultancy** | **$150.00** | Full roadmap from manuscript to Amazon launch. |
-| **Metadata & SEO Fix** | **$85.00** | Technical optimization of existing projects. |
-
-🔗 **Explore my Amazon Author Profile:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
-
----
-
-## 📽️ AI-Generated Video & Audiovisual Services
-We transform content into high-impact communication assets.
-
-| Plan | Investment (30-min block) | Watch Sample |
-| :--- | :--- | :--- |
-| **Essential Insight** | **$45.00 USD** | [▶️ Welcome Video](https://youtu.be/BEoixjonDmg) |
-| **Premium Insight** | **$85.00 USD** | [▶️ What is Love?](https://youtu.be/NGyvRcIGzFY) |
-
----
-
-## 🕊️ Stewardship and Purpose
-Every service is a commitment to managing the talents God has provided with excellence. My goal is to bring order, clarity, and hope to your path.
-
-**Contact via LinkedIn:** [https://www.linkedin.com/in/pticostarica](https://www.linkedin.com/in/pticostarica)
-
-## 📖 Strategic Author Mentorship & Amazon Publishing
-Leveraging my experience as a published author on Amazon, I help you turn your manuscript into a global blessing.
-
-* **Author Credential:** Author of the series *"Relaciones de pareja sanas y duraderas"* and *"The Power of Love"*.
-* **Publishing Strategy:** From manuscript structure to technical KDP navigation and SEO metadata optimization.
-
-| Service | Investment | Professional Value |
-| :--- | :--- | :--- |
-| **Publishing Consultancy** | **$150.00** | Full strategic roadmap from manuscript to Amazon launch. |
-| **Metadata & SEO Fix** | **$85.00** | Technical optimization of existing projects for better visibility. |
-
-🔗 **Explore my Amazon Author Profile:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
-
----
-
-## 📽️ AI-Generated Video & Audiovisual Services
-We transform raw content into high-impact communication assets.
-
-* **Strategic Video Synthesis:** Summaries (up to 2 mins) with automated visual selection.
-* **Standard Deliverables:** SRT subtitles (English/Spanish), 3 high-quality thumbnails, and SEO metadata.
-
-| Plan | Investment (30-min block) | Watch Sample |
-| :--- | :--- | :--- |
-| **Essential Insight** | **$45.00 USD** | [▶️ Welcome Video](https://youtu.be/BEoixjonDmg) |
-| **Premium Insight** | **$85.00 USD** | [▶️ What is Love?](https://youtu.be/NGyvRcIGzFY) |
-
----
-
-## 🕊️ Stewardship and Purpose
-Every service is a commitment to managing the talents God has provided with excellence. My goal is to bring order, clarity, and hope to your personal and professional path.
-
-**Contact via LinkedIn:** [https://www.linkedin.com/in/pticostarica](https://www.linkedin.com/in/pticostarica)
-
----
-
-## ✍️ Author Credentials: Restoring Love through Self-Knowledge
-My mission, inspired by God, is to help others understand themselves deeply so they can build healthy, lasting relationships. With over 17 years of experience in technology and a dedicated transition into Psychology, I offer a unique perspective that combines technical precision with emotional depth.
-
-As a **Highly Sensitive Person (HSP)**, I utilize natural empathy to validate emotions and guide others toward emotional restoration. My approach is universal, using simple and accessible language to ensure the message of healing reaches every heart.
-
-### **My Published Works on Amazon**
-I am the author of several books that integrate Christian principles with emotional intelligence:
-* **"Why You Can't Find a Partner?"** (focused on women)
-* **"How to Love a Woman"** (for men)
-* **"The Power of Love"**
-
-🔗 **Explore my Amazon Author Profile:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
-
-Through my newsletter, **"Healthy and Lasting Couples,"** I promote the **Fruits of the Spirit**—love, patience, and self-control—as the vital foundation for a life of purpose.
-
----
-
-## 📖 Strategic Author Mentorship & Amazon Publishing
-I help aspiring authors turn their manuscripts into global blessings by navigating the technical and creative journey of self-publishing.
-
-* **Author Strategy:** Leveraging my experience with multiple published titles to help you structure your message for maximum impact.
-* **Metadata & SEO:** Using my signature strength of **Judgment** to select categories and keywords that ensure your book finds its intended audience.
-* **KDP Technical Support:** Navigating the technical landscape of Amazon's publishing platform with the precision of a software architect.
-
-| Service | Investment | Professional Value |
-| :--- | :--- | :--- |
-| **Publishing Consultancy** | **$150.00** | Full strategic roadmap from manuscript to Amazon launch. |
-| **Formatting & Metadata Fix** | **$85.00** | Technical optimization of an existing project for better visibility. |
-
 ## A Journey of Synthesis
 My professional path represents a harmony between two decades of technical architecture and a calling toward **Psychology**. After 20 years of crafting digital systems as a professional from Costa Rica, I am now transitioning toward a life dedicated to the most vital architecture of all: human connection and self-discovery. In **September 2026**, I will begin the next stage of my formal training in **Madrid** to deepen this expertise.
 
 ---
 
 ## The Mission: Self-Discovery & Healthy Bonds
-My main objective is to help people get to know themselves deeply and to provide the education necessary to establish **healthy, long-lasting relationships**. This mission is rooted in the belief that when we understand our own design, we can better love those around us. 
+My main objective is to help people get to know themselves deeply and establish **healthy, long-lasting relationships**. This mission is rooted in the belief that when we understand our own design, we can better love those around us. 
 
 As a **Highly Sensitive Person (HSP)**, I utilize my sensitivity to see the nuances that technical tools often overlook. I integrate these insights into my book series and my creative services, ensuring that every project is a stewardship of the talents God has provided.
 
@@ -170,139 +23,87 @@ My approach is guided by the signature strengths that define my best self:
 
 ---
 
-## Professional Vision
-Whether through my books published on **Amazon**, my upcoming workshops in Europe, or my creative audiovisual services, I am committed to being a vessel for light and healing. I trust that technology and psychology, when combined with faith and intention, can transform lives.
-
-# Service Proposal: Audiovisual Intelligence & Strategic Content Synthesis
-
-## Overview
-We transform raw video content into structured, high-value assets. By combining a sophisticated technical framework with a specialized analytical perspective, we extract hidden knowledge and repurpose it into impactful formats to maximize your reach, organization, and influence.
-
-Our methodology bridges the precision of advanced intelligence with a sensitive, ethical human interpretation. This ensures that every delivery meets the highest standards, providing you with clarity and a competitive edge in your field.
+## 🛡️ Professional Ethics & Transparency
+Please note that while I am a dedicated student of the human experience and will begin formal Psychology studies in **Madrid** in **September 2026**, **I am not a licensed psychologist, nor do I provide clinical therapy or diagnostic services**. My work consists of **educational mentorship and strategic coaching** based on my published works and scientifically validated identity frameworks. If you require mental health treatment, please consult a licensed healthcare professional.
 
 ---
 
-## Standard Deliverables (Included in every 30-minute block)
-Every analysis provides a complete package of resources ready for immediate implementation:
+## 📑 Identity Blueprinting & Strategic Mentorship
+In these sessions, we use a validated scientific assessment as a baseline for transformation. **Prices include all assessment tools.**
 
-* **High-Compatibility Subtitles (SRT):** Professionally synchronized **SRT** files in two base languages: **English and Spanish**.
-* **Visual Assets:** **3 High-quality base thumbnails**. These artistic pieces are delivered without text, designed to capture your audience's attention and reflect the essence of your message.
-* **Information Architecture:**
-    * **Keywords List:** Selected for SEO and internal search optimization.
-    * **Topics List:** Identification of the core conceptual pillars of the content.
-    * **Labels List:** Technical categorization of detected visual and auditory elements.
-
----
-
-## Investment Plans
-
-| Feature | Essential Insight Plan | Premium Insight Plan |
+| Service Offering | Investment | Scope of Transformation |
 | :--- | :--- | :--- |
-| **Analysis Depth** | Essential (Efficiency & Order) | **Premium (Maximum Precision)** |
-| **Subtitles (SRT)** | English & Spanish | English & Spanish |
-| **Thumbnails** | 3 Base Images | 3 Base Images |
-| **Metadata** | Keywords, Topics, & Labels | Keywords, Topics, & Labels |
-| **Technical Precision** | Standard | **High-Frequency Analysis** |
-| **Investment (30-min block)** | **$45.00 USD** | **$85.00 USD** |
+| **Identity Essence Strategy** | **$85.00 USD** | Core quality analysis + 45-min strategy session. |
+| **Human Architecture** | **$195.00 USD** | Full 24-trait audit + 2 strategic sessions (90 min total). |
+| **Presence & Resonance** | **$110.00 USD** | Mindfulness evaluation + Resonance practice plan. |
 
 ---
 
-## AI Video Synthesis & Additional Services
+## 📖 Author Mentorship & Amazon Publishing
+Leveraging my experience as a published author, I help you turn your message into a global blessing.
 
-### **Strategic Video Synthesis ($50.00 USD per video)**
-We create high-impact summaries (up to 2 minutes) designed for social media or internal communications. This service includes:
-* **Automated Visual Selection:** Our system intelligently pairs your narrative with high-impact visual assets. It identifies the core concepts of your script to select imagery that visually amplifies your message, ensuring a professional aesthetic.
-* **Narrative Structuring:** We organize fragmented information into a clear, logical flow. This process transforms raw data into a compelling story with a defined beginning, middle, and end, optimized for audience engagement.
-
-### **📽️ AI-Generated Video Samples**
-Witness how strategic narrative and high-impact visual assets combine to create powerful communication experiences.
-
-| Video Title | Content Focus | Watch Video |
+| Publishing Service | Investment | Professional Value |
 | :--- | :--- | :--- |
-| **Bienvenida** | Tu transformación comienza hoy | [▶️ Watch on YouTube](https://youtu.be/BEoixjonDmg?si=4s7gXgxIYynYISv8) |
-| **¿Qué es verdaderamente el amor?** | Más allá del romance | [▶️ Watch on YouTube](https://youtu.be/NGyvRcIGzFY?si=DoJFvCJbspHc8gpD) |
-| **Cómo amar a una mujer (Guía 2025)** | Parejas duraderas y conexiones profundas | [▶️ Watch on YouTube](https://youtu.be/8LWH9EGuSes?si=yRiQKTqd2OzL30my) |
-| **El sueño que lo cambió todo** | Historias de la Biblia | [▶️ Watch on YouTube](https://youtu.be/Dlnv4o7-JWI?si=XbRy4PZyEi6jqFwx) |
+| **Publishing Consultancy** | **$150.00 USD** | Full roadmap from manuscript to Amazon launch. |
+| **Metadata & SEO Fix** | **$85.00 USD** | Technical optimization for better search visibility. |
+| **Formatting & KDP Fix** | **$85.00 USD** | Technical architect-level preparation for book files. |
 
-### **Strategic Summary Report ($30.00 USD per report)**
-A streamlined report that translates technical data into actionable knowledge, including:
-* **Takeaways:** A concise distillation of the most important points. These are the actionable insights extracted from the content, allowing you to grasp the essence of long recordings in minutes.
-* **Emotional Trends:** A data-driven map of sentiment shifts throughout the video. We track peaks in confidence, empathy, and engagement, providing a clear picture of the speaker’s emotional journey.
-* **Communication Patterns:** An analysis of delivery styles. We identify recurring themes, pacing, and tonal consistency, helping you evaluate the effectiveness and resonance of the message.
+🔗 **Explore my Amazon Author Profile:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
 
 ---
 
-## Specialized Professional Discounts
-There is a profound commitment here to support those who dedicate their lives to the well-being of others and the cultivation of healthy relationships. To honor this mission, a **20% discount** is offered to professionals in the following fields:
+## 📽️ Audiovisual Intelligence & Video Synthesis
+We transform raw video content into high-value assets by extracting hidden knowledge and repurposing it into impactful formats.
 
-* **Psychology & Mental Health Practitioners**
-* **Relationship & Marriage Counselors**
-* **Life Coaches & Mentors focusing on Healthy Bonds**
-* **Pastoral Counselors & Theology Professionals**
+| Plan (per 30-min block) | Investment | Analysis Depth & Deliverables |
+| :--- | :--- | :--- |
+| **Essential Insight** | **$45.00 USD** | Efficiency and Order + SRT Subtitles + 3 Thumbnails. |
+| **Premium Insight** | **$85.00 USD** | **Maximum Precision** + Full Metadata + All Standard Deliverables. |
 
-*Please mention your area of practice when requesting a quote to apply this benefit.*
+### **Specialized AI Services**
+* **Strategic Video Synthesis ($50.00 USD):** High-impact 2-minute summary with automated visual selection.
+* **Strategic Summary Report ($30.00 USD):** Data-driven map of emotional trends and takeaways.
 
----
-
-## Global Reach & Privacy
-* **Additional Languages:** Generation of SRT files in any extra language for **$10.00 USD per language**.
-
----
-
-## Commitment to Integrity and Ethics
-Our methodology focuses on the meaningful analysis and creative transformation of content. We operate under strict ethical guidelines, ensuring that technology serves to foster understanding and professional growth while respecting individual privacy.
-
-Every project is managed with the utmost professionalism. These analytical and creative tools are a means to bring order and clarity to our communication. May God guide our work to ensure that the results delivered are a blessing and of great utility for your professional objectives and your community.
-
----
-
-## 🎧 Experience the Harmony: Project Samples
-
-Witness how heart-centered lyrics and advanced technology harmonize to create messages of hope, gratitude, and strength. These samples showcase the emotional range and professional curation I provide as an **HSP** and **Technical Architect**.
-
-| Song Title | Genre | Language | Vocal Style | Listen |
-| :--- | :--- | :--- | :--- | :--- |
-| **Tu Voz** | Country | Spanish | Male (V1) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/tu-voz-country-male-v1) |
-| **Agradecido Estaré** | Country | Spanish | Male (V2) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/agradecido-estare-country-male) |
-| **Always Give a Smile** | Country | English | Male (V2) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/always-give-a-smile-country) |
-| **The Power Within** | Pop | English | Female (V1) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/the-power-within-pop-female-v1) |
-| **Her nights** | Country | English | Female (V2) | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/her-nights-country-female-v2) |
+### **📺 Video Portfolio Samples**
+| Video Title | Content Focus | Watch Link |
+| :--- | :--- | :--- |
+| **Welcome** | Your transformation starts today | [▶️ Watch on YouTube](https://youtu.be/BEoixjonDmg) |
+| **True Love** | Beyond romance | [▶️ Watch on YouTube](https://youtu.be/NGyvRcIGzFY) |
+| **Guide 2025** | Lasting couples and deep connections | [▶️ Watch on YouTube](https://youtu.be/8LWH9EGuSes) |
+| **Bible Stories** | The dream that changed everything | [▶️ Watch on YouTube](https://youtu.be/Dlnv4o7-JWI) |
 
 ---
 
 ## 🎵 Creative & Songwriting Services
+Technology and art converge to serve a higher purpose, capturing the human experience through music.
 
-Technology and art converge to serve a higher purpose. These services are designed for those who wish to express deep emotions, faith, or psychological insights through the power of music and words.
-
-### ✍️ Lyricist: Lyrics with Purpose and Depth
-Every song starts with a heartbeat. As an **HSP (Highly Sensitive Person)** with a foundation in Psychology, I capture the nuances of the human experience to create lyrics that resonate with the soul.
-
-* **Native Spanish Composition:** Deep, poetic, and spiritually grounded lyrics.
-* **English Composition:** Carefully crafted lyrics that maintain emotional resonance and metric flow.
-* **Themes:** Faith-based, Healthy Relationships, Emotional Growth, and Personal Triumphs.
-
-### 🤖 AI-Powered Song Production
-I utilize advanced AI tools as a **Technical Curator**, ensuring the style, melody, and atmosphere perfectly match the intention of your message.
-
----
-
-### 📊 Service Comparison & Investment
-
-| Service | Investment | Professional Value |
+| Creative Service | Investment | Key Deliverable |
 | :--- | :--- | :--- |
-| **Lyricist (Spanish)** | **$65.00** | Native fluency with deep spiritual storytelling. |
-| **Lyricist (English)** | **$85.00** | Specialized composition with precise nuance. |
-| **AI Song Production** | **$45.00** | Expert technical curation and aesthetic refinement. |
-| **Spanish Creator Combo** | **$100.00** | Integrated creation (Spanish lyrics + AI Production). |
-| **English Creator Combo** | **$120.00** | Integrated creation (English lyrics + AI Production). |
+| **Lyricist (Spanish)** | **$65.00 USD** | Native fluency with deep spiritual storytelling. |
+| **Lyricist (English)** | **$85.00 USD** | Specialized composition with precise nuance. |
+| **AI Song Production** | **$45.00 USD** | Expert technical curation and aesthetic refinement. |
+| **Creator Combo (SP/EN)** | **$100-$120 USD** | Integrated creation (Lyrics + AI Production). |
+
+### **🎧 Project Audio Samples**
+| Song Title | Genre | Language | Listen Link |
+| :--- | :--- | :--- | :--- |
+| **Tu Voz** | Country | Spanish | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/tu-voz-country-male-v1) |
+| **Agradecido Estaré** | Country | Spanish | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/agradecido-estare-country-male) |
+| **Always Give a Smile** | Country | English | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/always-give-a-smile-country) |
+| **The Power Within** | Pop | English | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/the-power-within-pop-female-v1) |
+| **Her nights** | Country | English | [▶️ Listen on SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/her-nights-country-female-v2) |
 
 ---
 
-### 🕊️ Integrity and Inspiration
-In every line written and every note generated, I seek to reflect the excellence and beauty of the talents God has provided. It is a privilege to help you turn your inspiration into a blessing for others. May these creations serve as a vessel for light and connection.
+## 🌟 Specialized Professional Discounts (20% Off)
+I am committed to supporting those who cultivate healthy relationships. A **20% discount** is offered to:
+* **Psychology & Mental Health Practitioners**
+* **Relationship & Marriage Counselors**
+* **Pastoral Counselors & Theology Professionals**
 
 ---
 
-### Contact
-To begin processing your material or to request a customized quote for long-duration production projects, please get in touch. Send me a message on LinkedIn: 
-[https://www.linkedin.com/in/pticostarica](https://www.linkedin.com/in/pticostarica)
+## 🕊️ Stewardship and Purpose
+Every service is a commitment to managing the talents God has provided with excellence. My goal is to bring order, clarity, and hope to your path.
+
+**Contact via LinkedIn:** [https://www.linkedin.com/in/pticostarica](https://www.linkedin.com/in/pticostarica)
