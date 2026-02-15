@@ -28,7 +28,7 @@ My approach is guided by the signature strengths that define my best self:
 ---
 
 ## 🛡️ Professional Ethics & Transparency
-I have successfully completed **16 subjects in Psychology**—including Human Development, Psychopathology, and Cognitive-Behavioral Approaches—at the **Universidad Latina de Costa Rica**. I will **continue** my formal Psychology studies in **Madrid** in **September 2026**. 
+I have successfully completed **16+ subjects in Psychology**—including Human Development, Psychopathology, and Cognitive-Behavioral Approaches—at the **Universidad Latina de Costa Rica**. I will **continue** my formal Psychology studies in **Madrid** in **September 2026**. 
 
 **I am not yet a licensed psychologist, nor do I provide clinical therapy or diagnostic services.** My work consists of **educational mentorship and strategic coaching** based on my published works and scientifically validated identity frameworks. If you require mental health treatment, please consult a licensed healthcare professional.
 
