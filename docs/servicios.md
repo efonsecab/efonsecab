@@ -4,6 +4,87 @@
 
 ---
 
+# Mentoría de Autoconocimiento y Arquitectura de Contenido Estratégico
+
+Como autor y profesional con 20 años en Arquitectura Técnica en transición hacia la **Psicología**, ayudo a las personas a comprender su diseño central para construir vínculos sanos y duraderos. Integro la precisión técnica con una perspectiva sensible y centrada en la fe para aportar orden y claridad a su crecimiento personal.
+
+---
+
+## 🛡️ Ética Profesional y Transparencia
+Es importante aclarar que, aunque soy un estudioso dedicado de la experiencia humana e iniciaré estudios formales de Psicología en **Madrid** en **septiembre de 2026**, **no soy psicólogo colegiado ni ofrezco servicios de terapia clínica o diagnóstico**. Mi labor consiste en **mentoría educativa y estratégica** basada en mis libros publicados y en marcos de identidad científicamente validados. Si requiere tratamiento de salud mental, por favor consulte a un profesional de la salud debidamente acreditado.
+
+---
+
+## 📑 Mentoría Estratégica y Diseño de Identidad
+En estas sesiones, utilizamos una evaluación científica como base para una transformación estratégica mucho más profunda. **Todos los precios incluyen las herramientas de evaluación necesarias.**
+
+### 1. Sesión "Esencia de Identidad"
+Este servicio no es solo un reporte; es una inmersión profunda en las cualidades que definen su yo auténtico. Utilizamos una evaluación base para identificar sus fortalezas primarias y diseñar una estrategia de vida.
+* **Paso 1: La Evaluación:** Iniciamos con un perfil científico de sus rasgos de personalidad positivos.
+* **Paso 2: Análisis:** Le ayudo a comprender cómo estos rasgos moldean sus pensamientos y cómo los demás perciben su mejor versión.
+* **Paso 3: Implementación:** Diseñamos de 3 a 5 actividades específicas para aplicar estos talentos naturales a sus desafíos actuales.
+
+| Inversión | Componentes |
+| :--- | :--- |
+| **$85.00 USD** | Perfil Científico + Sesión de análisis estratégico de 45 minutos. |
+
+---
+
+### 2. "Arquitectura Humana" Integral
+Un análisis exhaustivo de su "código fuente humano". Este servicio de varias etapas identifica cómo equilibrar su energía y navegar las complejidades de la vida con confianza.
+* **Paso 1: Mapeo Profundo:** Evaluamos el espectro completo de sus 24 rasgos centrales para ver el panorama general.
+* **Paso 2: Auditoría de Equilibrio:** Identifico dónde podría estar sobreutilizando o subutilizando sus capacidades naturales para evitar el agotamiento.
+* **Paso 3: Hoja de Ruta:** Creamos un plan para potenciar sus rasgos secundarios en apoyo a sus metas principales.
+
+| Inversión | Componentes |
+| :--- | :--- |
+| **$195.00 USD** | Auditoría de Identidad Completa + 2 Sesiones estratégicas (90 min total) + Hoja de Ruta. |
+
+---
+
+### 3. Práctica de "Presencia y Resonancia"
+Este servicio combina la conciencia activa con sus mejores cualidades para ayudarle a estar auténticamente presente y reducir el estrés en entornos de alta presión.
+* [cite_start]**Paso 1: Evaluación de Conciencia:** Analizamos sus habilidades de observación, descripción y respuesta consciente.
+* **Paso 2: Integración Consciente:** Le muestro cómo usar sus mejores rasgos para cultivar los **Frutos del Espíritu** en sus interacciones diarias.
+
+| Inversión | Componentes |
+| :--- | :--- |
+| **$110.00 USD** | Evaluación de Conciencia + Sesión de Análisis de Resonancia + Plan de Práctica. |
+
+---
+
+## 📖 Mentoría para Autores y Publicación en Amazon
+Aprovechando mi experiencia como autor publicado, le ayudo a convertir su mensaje en una bendición global.
+
+* **Credencial de Autor:** Autor de la serie *"Relaciones de pareja sanas y duraderas"* y *"El Poder del Amor"*.
+* **Estrategia Editorial:** Le guío en la estructura del manuscrito, la navegación técnica en KDP y la optimización SEO para asegurar que su voz llegue a cada corazón.
+
+| Servicio | Inversión | Valor Profesional |
+| :--- | :--- | :--- |
+| **Consultoría de Publicación** | **$150.00** | Hoja de ruta completa desde el manuscrito hasta el lanzamiento. |
+| **Optimización SEO y Técnica** | **$85.00** | Mejora técnica de proyectos existentes. |
+
+🔗 **Explora mi Perfil de Autor en Amazon:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
+
+---
+
+## 📽️ Síntesis de Video con IA y Servicios Audiovisuales
+Transformamos contenido en activos de comunicación de alto impacto.
+
+| Plan | Inversión (bloque 30 min) | Ver Ejemplo |
+| :--- | :--- | :--- |
+| **Perspectiva Esencial** | **$45.00 USD** | [▶️ Video Bienvenida](https://youtu.be/BEoixjonDmg) |
+| **Perspectiva Premium** | **$85.00 USD** | [▶️ ¿Qué es el Amor?](https://youtu.be/NGyvRcIGzFY) |
+
+---
+
+## 🕊️ Mayordomía y Propósito
+Cada servicio es un compromiso para administrar con excelencia los talentos que Dios ha provisto. Mi objetivo es aportar orden, claridad y esperanza a su camino.
+
+**Contacto vía LinkedIn:** [https://www.linkedin.com/in/pticostarica](https://www.linkedin.com/in/pticostarica)
+
+---
+
 ## ✍️ Credenciales de Autor: Restaurando el Amor a través del Autoconocimiento
 Mi misión, inspirada por Dios, es ayudar a otros a comprenderse profundamente para que puedan construir relaciones sanas y duraderas. Con más de 17 años de experiencia en tecnología y una transición dedicada hacia la Psicología, ofrezco una perspectiva única que combina la precisión técnica con la profundidad emocional.
 
