@@ -2,13 +2,31 @@
 
 [Spanish](servicios.md)
 
-### 📖 Strategic Author Mentorship & Amazon Publishing
-Turning a manuscript into a global blessing requires more than just words; it requires architecture. I help aspiring authors navigate the technical and creative hurdles of self-publishing on Amazon.
+---
 
-* **Manuscript Preparation:** Guidance on structuring your content for maximum impact and readability.
-* **Metadata & SEO Strategy:** Utilizing my "Judgment" strength to select keywords and categories that ensure your book reaches the right audience.
-* **Amazon KDP Navigation:** Technical support through the upload, formatting, and distribution process.
-* **Cover Design Strategy:** Aligning your visual identity with the core message of your work.
+## ✍️ Author Credentials: Restoring Love through Self-Knowledge
+My mission, inspired by God, is to help others understand themselves deeply so they can build healthy, lasting relationships. With over 17 years of experience in technology and a dedicated transition into Psychology, I offer a unique perspective that combines technical precision with emotional depth.
+
+As a **Highly Sensitive Person (HSP)**, I utilize natural empathy to validate emotions and guide others toward emotional restoration. My approach is universal, using simple and accessible language to ensure the message of healing reaches every heart.
+
+### **My Published Works on Amazon**
+I am the author of several books that integrate Christian principles with emotional intelligence:
+* **"Why You Can't Find a Partner?"** (focused on women)
+* **"How to Love a Woman"** (for men)
+* **"The Power of Love"**
+
+🔗 **Explore my Amazon Author Profile:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
+
+Through my newsletter, **"Healthy and Lasting Couples,"** I promote the **Fruits of the Spirit**—love, patience, and self-control—as the vital foundation for a life of purpose.
+
+---
+
+## 📖 Strategic Author Mentorship & Amazon Publishing
+I help aspiring authors turn their manuscripts into global blessings by navigating the technical and creative journey of self-publishing.
+
+* **Author Strategy:** Leveraging my experience with multiple published titles to help you structure your message for maximum impact.
+* **Metadata & SEO:** Using my signature strength of **Judgment** to select categories and keywords that ensure your book finds its intended audience.
+* **KDP Technical Support:** Navigating the technical landscape of Amazon's publishing platform with the precision of a software architect.
 
 | Service | Investment | Professional Value |
 | :--- | :--- | :--- |
@@ -89,8 +107,8 @@ Witness how strategic narrative and high-impact visual assets combine to create 
 | :--- | :--- | :--- |
 | **Bienvenida** | Tu transformación comienza hoy | [▶️ Watch on YouTube](https://youtu.be/BEoixjonDmg?si=4s7gXgxIYynYISv8) |
 | **¿Qué es verdaderamente el amor?** | Más allá del romance | [▶️ Watch on YouTube](https://youtu.be/NGyvRcIGzFY?si=DoJFvCJbspHc8gpD) |
-| **Cómo amar a una mujer (Guía 2025)** | Lasting couples and deep connections | [▶️ Watch on YouTube](https://youtu.be/8LWH9EGuSes?si=yRiQKTqd2OzL30my) |
-| **El sueño que lo cambió todo** | Bible Stories | [▶️ Watch on YouTube](https://youtu.be/Dlnv4o7-JWI?si=XbRy4PZyEi6jqFwx) |
+| **Cómo amar a una mujer (Guía 2025)** | Parejas duraderas y conexiones profundas | [▶️ Watch on YouTube](https://youtu.be/8LWH9EGuSes?si=yRiQKTqd2OzL30my) |
+| **El sueño que lo cambió todo** | Historias de la Biblia | [▶️ Watch on YouTube](https://youtu.be/Dlnv4o7-JWI?si=XbRy4PZyEi6jqFwx) |
 
 ### **Strategic Summary Report ($30.00 USD per report)**
 A streamlined report that translates technical data into actionable knowledge, including:
