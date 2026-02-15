@@ -4,6 +4,120 @@
 
 ---
 
+# Self-Discovery Mentorship & Strategic Content Architecture
+
+As an author and professional with 20 years in Technical Architecture now transitioning into **Psychology**, I help individuals understand their core design to build healthy, lasting bonds. I integrate structured technical precision with a sensitive, faith-centered perspective to bring order and clarity to your personal growth.
+
+---
+
+## 🛡️ Professional Ethics & Transparency
+Please note that while I am a dedicated student of the human experience and will begin formal Psychology studies in **Madrid** in **September 2026**, **I am not a licensed psychologist, nor do I provide clinical therapy or diagnostic services**. My work consists of **educational mentorship and strategic coaching** based on my published works and scientifically validated identity frameworks. If you require mental health treatment, please consult a licensed healthcare professional.
+
+---
+
+## 📑 Strategic Mentorship & Identity Blueprinting
+In these sessions, we use a validated scientific assessment as a baseline for a much deeper strategic transformation. **All prices include the necessary assessment tools.**
+
+### 1. "Identity Essence" Strategy Session
+This is not just a report; it is a deep dive into the core qualities that define your authentic self. We use a baseline assessment to identify your primary strengths and build a strategy to thrive.
+* **Step 1: The Assessment:** We begin with a scientific profile of your positive personality traits.
+* **Step 2: Analysis:** I help you understand how these traits shape your thoughts and how others perceive your best version.
+* **Step 3: Implementation:** We design 3-5 specific activities to apply these natural talents to your current life challenges.
+
+| Investment | Components |
+| :--- | :--- |
+| **$85.00 USD** | Scientific Profile + 45-minute strategic analysis session. |
+
+---
+
+### 2. "Human Architecture" Transformation
+A comprehensive analysis of your "human source code." This multi-stage service identifies how to balance your energy and navigate life’s complexities with confidence.
+* **Step 1: Deep Mapping:** We evaluate your full spectrum of 24 core traits to see the big picture.
+* **Step 2: Balance Audit:** I identify where you may be overusing or underusing your natural capacities, preventing burnout.
+* **Step 3: Strategic Roadmap:** We create a plan to leverage your secondary traits to support your main goals.
+
+| Investment | Components |
+| :--- | :--- |
+| **$195.00 USD** | Full Identity Audit + 2 Strategic sessions (90 mins total) + Personalized Roadmap. |
+
+---
+
+### 3. "Presence & Resonance" Practice
+This service combines active awareness with your best qualities to help you remain authentically present and reduce stress in high-pressure environments.
+* **Step 1: Awareness Evaluation:** We analyze your skills in observation, description, and non-reactive awareness.
+* **Step 2: Conscious Integration:** I show you how to use your best traits to cultivate the **Fruits of the Spirit** in your daily interactions.
+
+| Investment | Components |
+| :--- | :--- |
+| **$110.00 USD** | Awareness Evaluation + Resonance Analysis Session + Guided Practice Plan. |
+
+---
+
+## 📖 Author Mentorship & Amazon Publishing
+Leveraging my experience as a published author, I help you turn your message into a global blessing.
+
+* **Author Credential:** Author of the series *"Relaciones de pareja sanas y duraderas"* and *"The Power of Love"*.
+* **Strategic Roadmap:** I guide you through manuscript structure, technical KDP navigation, and SEO optimization to ensure your voice reaches every heart.
+
+| Service | Investment | Professional Value |
+| :--- | :--- | :--- |
+| **Publishing Consultancy** | **$150.00** | Full roadmap from manuscript to Amazon launch. |
+| **Metadata & SEO Fix** | **$85.00** | Technical optimization of existing projects. |
+
+🔗 **Explore my Amazon Author Profile:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
+
+---
+
+## 📽️ AI-Generated Video & Audiovisual Services
+We transform content into high-impact communication assets.
+
+| Plan | Investment (30-min block) | Watch Sample |
+| :--- | :--- | :--- |
+| **Essential Insight** | **$45.00 USD** | [▶️ Welcome Video](https://youtu.be/BEoixjonDmg) |
+| **Premium Insight** | **$85.00 USD** | [▶️ What is Love?](https://youtu.be/NGyvRcIGzFY) |
+
+---
+
+## 🕊️ Stewardship and Purpose
+Every service is a commitment to managing the talents God has provided with excellence. My goal is to bring order, clarity, and hope to your path.
+
+**Contact via LinkedIn:** [https://www.linkedin.com/in/pticostarica](https://www.linkedin.com/in/pticostarica)
+
+## 📖 Strategic Author Mentorship & Amazon Publishing
+Leveraging my experience as a published author on Amazon, I help you turn your manuscript into a global blessing.
+
+* **Author Credential:** Author of the series *"Relaciones de pareja sanas y duraderas"* and *"The Power of Love"*.
+* **Publishing Strategy:** From manuscript structure to technical KDP navigation and SEO metadata optimization.
+
+| Service | Investment | Professional Value |
+| :--- | :--- | :--- |
+| **Publishing Consultancy** | **$150.00** | Full strategic roadmap from manuscript to Amazon launch. |
+| **Metadata & SEO Fix** | **$85.00** | Technical optimization of existing projects for better visibility. |
+
+🔗 **Explore my Amazon Author Profile:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
+
+---
+
+## 📽️ AI-Generated Video & Audiovisual Services
+We transform raw content into high-impact communication assets.
+
+* **Strategic Video Synthesis:** Summaries (up to 2 mins) with automated visual selection.
+* **Standard Deliverables:** SRT subtitles (English/Spanish), 3 high-quality thumbnails, and SEO metadata.
+
+| Plan | Investment (30-min block) | Watch Sample |
+| :--- | :--- | :--- |
+| **Essential Insight** | **$45.00 USD** | [▶️ Welcome Video](https://youtu.be/BEoixjonDmg) |
+| **Premium Insight** | **$85.00 USD** | [▶️ What is Love?](https://youtu.be/NGyvRcIGzFY) |
+
+---
+
+## 🕊️ Stewardship and Purpose
+Every service is a commitment to managing the talents God has provided with excellence. My goal is to bring order, clarity, and hope to your personal and professional path.
+
+**Contact via LinkedIn:** [https://www.linkedin.com/in/pticostarica](https://www.linkedin.com/in/pticostarica)
+
+---
+
 ## ✍️ Author Credentials: Restoring Love through Self-Knowledge
 My mission, inspired by God, is to help others understand themselves deeply so they can build healthy, lasting relationships. With over 17 years of experience in technology and a dedicated transition into Psychology, I offer a unique perspective that combines technical precision with emotional depth.
 
