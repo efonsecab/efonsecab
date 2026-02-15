@@ -1,5 +1,7 @@
 # Executive Summary: Architecture for the Heart and Soul
 
+[Spanish](servicios.md)
+
 ## A Journey of Synthesis
 My professional path represents a harmony between two decades of technical architecture and a calling toward **Psychology**. After 20 years of crafting digital systems as a professional from Costa Rica, I am now transitioning toward a life dedicated to the most vital architecture of all: human connection and self-discovery. In **September 2026**, I will begin the next stage of my formal training in **Madrid** to deepen this expertise.
 
