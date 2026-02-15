@@ -2,6 +2,19 @@
 
 [Spanish](servicios.md)
 
+### 📖 Strategic Author Mentorship & Amazon Publishing
+Turning a manuscript into a global blessing requires more than just words; it requires architecture. I help aspiring authors navigate the technical and creative hurdles of self-publishing on Amazon.
+
+* **Manuscript Preparation:** Guidance on structuring your content for maximum impact and readability.
+* **Metadata & SEO Strategy:** Utilizing my "Judgment" strength to select keywords and categories that ensure your book reaches the right audience.
+* **Amazon KDP Navigation:** Technical support through the upload, formatting, and distribution process.
+* **Cover Design Strategy:** Aligning your visual identity with the core message of your work.
+
+| Service | Investment | Professional Value |
+| :--- | :--- | :--- |
+| **Publishing Consultancy** | **$150.00** | Full strategic roadmap from manuscript to Amazon launch. |
+| **Formatting & Metadata Fix** | **$85.00** | Technical optimization of an existing project for better visibility. |
+
 ## A Journey of Synthesis
 My professional path represents a harmony between two decades of technical architecture and a calling toward **Psychology**. After 20 years of crafting digital systems as a professional from Costa Rica, I am now transitioning toward a life dedicated to the most vital architecture of all: human connection and self-discovery. In **September 2026**, I will begin the next stage of my formal training in **Madrid** to deepen this expertise.
 
