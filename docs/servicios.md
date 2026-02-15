@@ -2,13 +2,31 @@
 
 [English](index.md)
 
-### 📖 Mentoría para Autores y Publicación en Amazon
-Convertir un manuscrito en una bendición global requiere más que palabras; requiere arquitectura. Ayudo a autores emergentes a navegar los obstáculos técnicos y creativos de la autopublicación en Amazon.
+---
 
-* **Preparación del Manuscrito:** Guía para estructurar su contenido para lograr el máximo impacto y legibilidad.
-* **Estrategia de Metadatos y SEO:** Utilizo mi fortaleza de "Juicio" para seleccionar palabras clave y categorías que aseguren que su libro llegue a la audiencia correcta.
-* **Navegación en Amazon KDP:** Soporte técnico en el proceso de carga, formateo y distribución global.
-* **Estrategia de Diseño de Portada:** Alineación de su identidad visual con el mensaje central de su obra.
+## ✍️ Credenciales de Autor: Restaurando el Amor a través del Autoconocimiento
+Mi misión, inspirada por Dios, es ayudar a otros a comprenderse profundamente para que puedan construir relaciones sanas y duraderas. Con más de 17 años de experiencia en tecnología y una transición dedicada hacia la Psicología, ofrezco una perspectiva única que combina la precisión técnica con la profundidad emocional.
+
+Como **Persona Altamente Sensible (PAS)**, utilizo mi empatía natural para validar emociones y guiar a otros hacia la restauración emocional. Mi enfoque es universal, utilizando un lenguaje sencillo y accesible para asegurar que el mensaje de sanidad llegue a cada corazón.
+
+### **Obras Publicadas en Amazon**
+Soy autor de varios libros que integran principios cristianos con inteligencia emocional:
+* **"¿Por qué no encuentras pareja?"** (enfocado en mujeres)
+* **"Cómo amar a una mujer"** (para hombres)
+* **"El Poder del Amor"**
+
+🔗 **Explora mi Perfil de Autor en Amazon:** [https://www.amazon.com/author/eduardofonseca](https://www.amazon.com/author/eduardofonseca)
+
+A través de mi boletín, **"Parejas Sanas y Duraderas,"** promuevo los **Frutos del Espíritu**—amor, paciencia y dominio propio—como el fundamento vital para una vida con propósito.
+
+---
+
+## 📖 Mentoría para Autores y Publicación en Amazon
+Ayudo a autores emergentes a convertir sus manuscritos en una bendición global, navegando el viaje técnico y creativo de la autopublicación.
+
+* **Estrategia para Autores:** Aprovecho mi experiencia con múltiples títulos publicados para ayudarte a estructurar tu mensaje y lograr el máximo impacto.
+* **Metadatos y SEO:** Utilizo mi fortaleza de **Juicio** para seleccionar categorías y palabras clave que aseguren que tu libro encuentre a su audiencia ideal.
+* **Soporte Técnico en KDP:** Navego el panorama técnico de la plataforma de Amazon con la precisión de un arquitecto de software.
 
 | Servicio | Inversión | Valor Profesional |
 | :--- | :--- | :--- |
