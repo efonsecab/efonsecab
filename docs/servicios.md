@@ -2,6 +2,19 @@
 
 [English](index.md)
 
+### 📖 Mentoría para Autores y Publicación en Amazon
+Convertir un manuscrito en una bendición global requiere más que palabras; requiere arquitectura. Ayudo a autores emergentes a navegar los obstáculos técnicos y creativos de la autopublicación en Amazon.
+
+* **Preparación del Manuscrito:** Guía para estructurar su contenido para lograr el máximo impacto y legibilidad.
+* **Estrategia de Metadatos y SEO:** Utilizo mi fortaleza de "Juicio" para seleccionar palabras clave y categorías que aseguren que su libro llegue a la audiencia correcta.
+* **Navegación en Amazon KDP:** Soporte técnico en el proceso de carga, formateo y distribución global.
+* **Estrategia de Diseño de Portada:** Alineación de su identidad visual con el mensaje central de su obra.
+
+| Servicio | Inversión | Valor Profesional |
+| :--- | :--- | :--- |
+| **Consultoría de Publicación** | **$150.00** | Hoja de ruta estratégica completa desde el manuscrito hasta el lanzamiento. |
+| **Optimización de Formato y SEO** | **$85.00** | Ajustes técnicos de un proyecto existente para mejorar su visibilidad. |
+
 ## Una Trayectoria de Síntesis
 Mi trayectoria profesional es un puente entre dos décadas de arquitectura técnica y un llamado hacia la **Psicología**. Tras 20 años diseñando sistemas digitales como profesional costarricense, me encuentro en una transición hacia una vida dedicada a la arquitectura más vital de todas: la conexión humana y el autoconocimiento. En **septiembre de 2026**, iniciaré la siguiente etapa de mi formación formal en **Madrid** para profundizar en esta especialidad.
 
