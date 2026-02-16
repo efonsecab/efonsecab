@@ -33,6 +33,7 @@ I have successfully completed **16+ subjects in Psychology**—including Human D
 **I am not yet a licensed psychologist, nor do I provide clinical therapy or diagnostic services.** My work consists of **educational mentorship and strategic coaching** based on my published works and scientifically validated identity frameworks. If you require mental health treatment, please consult a licensed healthcare professional.
 
 ### Academic Foundation: Approved Subjects
+
 | Code | Subject | Academic Focus |
 | **BPS-02** | Humanities & Psychology | Integrative vision of multidisciplinary approaches to the person. |
 | **BPS-07** | Human Development I | Origins of psychism and development from conception to 12 years. |
