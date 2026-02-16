@@ -5,7 +5,7 @@
 ## A Journey of Synthesis: Technology, Psychology & Faith
 My professional path represents a unique harmony between two decades of digital architecture and a deep-rooted calling toward **Psychology**. While I have spent 20 years crafting complex digital systems, my formal academic journey began in **2012** at the **Universidad Latina de Costa Rica**. I possess over **14 years of passion for psychological study**, having successfully completed the core foundational subjects of the degree.
 
-I am currently transitioning toward a career dedicated to the most vital architecture of all: human connection and self-discovery. In **September 2026**, I will move to **Madrid** to **continue** my formal psychological training and deepen this expertise within a new cultural context.
+I am currently transitioning toward a career dedicated to the most vital architecture of all: human connection and self-discovery. Starting **2026**, I will be in **Madrid** to **continue** my formal psychological training and deepen this expertise within a new cultural context.
 
 ---
 
