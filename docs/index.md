@@ -118,6 +118,8 @@ I combine the power of poetic words with advanced technology to create music tha
 
 ### 🎧 Project Audio Samples
 
+**[🎧 Lyrics Samples (SoundCloud Playlist)](https://soundcloud.com/eduardo-fonseca-543907497/sets/lyrics-samples?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
+
 | Song Title | Genre | Language | Listen Link |
 | :--- | :--- | :--- | :--- |
 | **Tu Voz** | Country | Spanish | [▶️ SoundCloud](https://soundcloud.com/eduardo-fonseca-543907497/tu-voz-country-male-v1) |
