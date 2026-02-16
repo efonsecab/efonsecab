@@ -88,12 +88,14 @@ Transformamos sus grabaciones de video en activos profesionales de alto valor me
 | **Perspectiva Premium** | **$85** | Máxima Precisión + Palabras clave SEO + Temas clave. |
 
 ### Complementos Especializados
+
 | Servicio Adicional | Inversión | Lo que hago por usted |
 | :--- | :--- | :--- |
 | **Síntesis Estratégica IA** | **$50** | Resumen de alto impacto de 2 min con visuales automatizados. |
 | **Reporte de Resumen** | **$30** | Informe detallado de tendencias emocionales y puntos clave detectados. |
 
 ### **📺 Muestras de Portafolio de Video**
+
 | Título del Video | Enfoque | Enlace para Ver |
 | :--- | :--- | :--- |
 | **Bienvenida** | Su transformación inicia hoy | [▶️ Ver](https://youtu.be/BEoixjonDmg) |
