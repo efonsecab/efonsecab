@@ -88,12 +88,14 @@ I transform your raw video recordings into structured, high-value assets for soc
 | **Premium Insight** | **$85** | Maximum Precision Analysis + Full SEO Keywords + Topic Lists. |
 
 ### Specialized AI Add-ons
+
 | Specialized Add-on | Investment | What I do for you |
 | :--- | :--- | :--- |
 | **Strategic Video Synthesis** | **$50** | I create a high-impact 2-minute summary video with automated visuals. |
 | **Strategic Summary Report** | **$30** | I provide a report tracking emotional trends and key takeaways from your video. |
 
 ### 📺 Video Portfolio Samples
+
 | Video Title | Content Focus | Watch Link |
 | :--- | :--- | :--- |
 | **Welcome** | Your transformation starts today | [▶️ Watch](https://youtu.be/BEoixjonDmg) |
