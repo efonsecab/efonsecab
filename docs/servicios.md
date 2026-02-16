@@ -118,6 +118,8 @@ Utilizo la tecnología y la poesía para crear música que resuene con el alma, 
 
 ### **🎧 Muestras de Audio de Proyectos**
 
+**[🎧 Lyrics Samples (Playlist de SoundCloud)](https://soundcloud.com/eduardo-fonseca-543907497/sets/lyrics-samples?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)**
+
 | Título de la Canción | Género | Idioma | Enlace para Escuchar |
 | :--- | :--- | :--- | :--- |
 | **Tu Voz** | Country | Castellano | [▶️ Escuchar](https://soundcloud.com/eduardo-fonseca-543907497/tu-voz-country-male-v1) |
