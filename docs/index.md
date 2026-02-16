@@ -34,7 +34,6 @@ I have successfully completed **16+ subjects in Psychology**—including Human D
 
 ### Academic Foundation: Approved Subjects
 | Code | Subject | Academic Focus |
-| :--- | :--- | :--- |
 | **BPS-02** | Humanities & Psychology | Integrative vision of multidisciplinary approaches to the person. |
 | **BPS-07** | Human Development I | Origins of psychism and development from conception to 12 years. |
 | **BPS-01** | History of Knowledge | Psychology's place in the context of scientific knowledge history. |
