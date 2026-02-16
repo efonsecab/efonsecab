@@ -117,6 +117,7 @@ Utilizo la tecnología y la poesía para crear música que resuene con el alma, 
 | **Combo Creador (ING)** | **$120** | Yo escribo la letra en inglés y produzco la canción final. |
 
 ### **🎧 Muestras de Audio de Proyectos**
+
 | Título de la Canción | Género | Idioma | Enlace para Escuchar |
 | :--- | :--- | :--- | :--- |
 | **Tu Voz** | Country | Castellano | [▶️ Escuchar](https://soundcloud.com/eduardo-fonseca-543907497/tu-voz-country-male-v1) |
