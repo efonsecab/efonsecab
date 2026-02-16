@@ -5,7 +5,7 @@
 ## Una Trayectoria de Síntesis: Tecnología, Psicología y Fe
 Mi trayectoria profesional representa una armonía única entre dos décadas de arquitectura digital y un profundo llamado hacia la **Psicología**. Mientras diseñaba sistemas complejos durante 20 años, mi camino académico formal inició en el **2012** en la **Universidad Latina de Costa Rica**. Cuento con más de **14 años de pasión por el estudio psicológico**, habiendo completado con éxito las materias fundamentales de la carrera.
 
-Actualmente me encuentro en una transición hacia una vida dedicada a la arquitectura más vital: la conexión humana y el autoconocimiento. En **septiembre de 2026**, me trasladaré a **Madrid** para **continuar** mi formación académica y profundizar en esta especialidad dentro de un nuevo contexto cultural.
+Actualmente me encuentro en una transición hacia una vida dedicada a la arquitectura más vital: la conexión humana y el autoconocimiento. En **2026**, estaré en **Madrid** para **continuar** mi formación académica y profundizar en esta especialidad dentro de un nuevo contexto cultural.
 
 ---
 
@@ -33,6 +33,7 @@ He completado con éxito **16+ materias fundamentales de Psicología** en la Uni
 **Aún no soy psicólogo colegiado ni ofrezco servicios de terapia clínica o diagnóstico.** Mi labor consiste en **mentoría educativa y estratégica** basada en mis obras publicadas y en marcos de identidad científicamente validados. Si requiere tratamiento de salud mental, por favor consulte a un profesional acreditado.
 
 ### Fundamentación Académica: Materias Aprobadas
+
 | Código | Materia | Enfoque Académico |
 | :--- | :--- | :--- |
 | **BPS-02** | Cien. Humanísticas | Visión integrada de la persona desde la filosofía, antropología y sociología. |
