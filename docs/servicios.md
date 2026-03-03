@@ -55,6 +55,17 @@ He completado con éxito **16+ materias fundamentales de Psicología** en la Uni
 
 ---
 
+# 🏺 Vínculos Sagrados: Redacción Profesional para la Fe, la Familia y el Ministerio
+
+| Categoría de Cliente | Inversión Estimada | Entregables Clave |
+| :--- | :--- | :--- |
+| **Blogs de Iglesias y Ministerios** | $25 - $50 | Contenido edificante centrado en la fe, diseñado para alentar y guiar a las congregaciones. |
+| **Portales de Crianza y Familia** | $40 - $80 | Artículos prácticos y consejos enfocados en matrimonios sanos y paternidad intencional. |
+| **Escritura Fantasma (Autores/Pastores)** | $60 - $120 | Borradores para devocionales o materiales educativos para que los líderes compartan en sus plataformas. |
+| **Redacción de Newsletters (Boletines)** | $30 - $70 | Series de alto impacto (ej. "7 Días de Conexión") con precio por entrega dentro de un paquete completo. |
+
+---
+
 ## 📑 Diseño de Identidad y Mentoría Estratégica
 En estas sesiones, utilizamos evaluaciones científicas para mapear su personalidad. Le ayudo a traducir datos técnicos en una estrategia de vida clara. **Los precios incluyen todas las herramientas de evaluación.**
 
