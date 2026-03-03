@@ -55,6 +55,17 @@ I have successfully completed **16+ subjects in Psychology**—including Human D
 
 ---
 
+## 🏺 Sacred Bonds: Professional Writing for Faith, Family, and Ministry
+
+| Client Category | Estimated Investment | Key Deliverables |
+| :--- | :--- | :--- |
+| **Church Blogs & Ministries** | $25 - $50 | Edifying, faith-centered content designed to encourage and guide congregations. |
+| **Parenting & Family Portals** | $40 - $80 | Practical articles and advice focusing on healthy marriages and intentional parenting. |
+| **Ghostwriting (Authors/Pastors)** | $60 - $120 | Drafts for devotionals or educational materials for leaders to share on their platforms. |
+| **Newsletter Copywriting** | $30 - $70 | High-impact series (e.g., "7 Days of Connection") priced per delivery within a full package. |
+
+---
+
 ## 📑 Identity Blueprinting & Strategic Mentorship
 In these sessions, we use a validated scientific assessment to map your personality. I help you translate raw data into a clear life strategy. **Prices include all assessment tools.**
 
