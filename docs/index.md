@@ -14,6 +14,7 @@ Based in **Madrid starting 2026** for the **continuation** of formal psychologic
 
 ### **Explore More:**
 * 📖 **[About Me](about-me.md):** Learn about the journey, academic foundation, and the mission behind the work.
+* 📂 **[Portfolio](portfolio.md):** A showcase of software architecture, social impact projects, and relational wellness initiatives.
 * 📑 **[Professional Services](services.md):** Detailed information on Identity Mentorship, Author Support, Audiovisual Intelligence, and Creative Services.
 * 📩 **[Contact via LinkedIn](https://www.linkedin.com/in/pticostarica):** Connect for collaborations or strategic inquiries.
 
