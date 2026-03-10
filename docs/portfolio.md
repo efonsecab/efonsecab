@@ -1,6 +1,8 @@
 # Eduardo Fonseca | Senior Software Architect & Relational Mentor
 **Bridging Technical Logic with Human Connection**
 
+[Spanish](portafolio.md)
+
 Welcome to my portfolio. As a polymath passionate about both technology and human behavior, my mission is to build solutions that not only achieve technical excellence but also restore and strengthen the social fabric. Every endeavor I undertake is designed to serve others and honor God's guidance.
 
 ---
