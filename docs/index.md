@@ -30,6 +30,7 @@ Con sede en **Madrid a partir de 2026** para la **continuación** de la formaci�
 
 ### **Explorar más:**
 * 📖 **[Acerca de Mí](acerca-de-mi.md):** Conozca la trayectoria, la base académica y la misión detrás de cada proyecto.
+* 📂 **[Portafolio](portfolio.md):** Una muestra de arquitectura de software, proyectos de impacto social e iniciativas de bienestar relacional.
 * 📑 **[Servicios Profesionales](servicios.md):** Información detallada sobre Mentoría de Identidad, Apoyo a Autores, Inteligencia Audiovisual y Servicios Creativos.
 * 📩 **[Contacto vía LinkedIn](https://www.linkedin.com/in/pticostarica):** Conecte para colaboraciones o consultas estratégicas.
 
