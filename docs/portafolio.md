@@ -1,6 +1,8 @@
 # Eduardo Fonseca | Arquitecto de Software Senior y Mentor Relacional
 **Integrando la Lógica Técnica con la Conexión Humana**
 
+[English](portfolio.md)
+
 Bienvenido a mi portafolio. Como polímata apasionado por la tecnología y la conducta humana, mi misión es construir soluciones que no solo alcancen la excelencia técnica, sino que también restauren y fortalezcan el tejido social. Cada esfuerzo que emprendo está diseñado para servir a los demás y honrar la guía de Dios.
 
 ---
