@@ -7,6 +7,9 @@ Bienvenido a mi portafolio. Como polímata apasionado por la tecnología y la co
 
 ---
 
+## Contenido Generado con IA
+* [Mira mi contenido generado con IA](ai-generated-content.md)
+
 ## 🚀 Proyectos Destacados (Software y Simulación)
 
 ### **Project HTH (Help The Homeless)**

@@ -7,6 +7,9 @@ Welcome to my portfolio. As a polymath passionate about both technology and huma
 
 ---
 
+## AI Generated Content
+* [See my AI Generated Content](ai-generated-content.md)
+
 ## 🚀 Featured Projects (Software & Simulation)
 
 ### **Project HTH (Help The Homeless)**
