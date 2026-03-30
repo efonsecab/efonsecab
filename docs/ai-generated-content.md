@@ -1,5 +1,5 @@
 * [Cadenas Estilo LEGO](portfolio/ai-generatd-videos/cadenas-estilo-lego.mp4)
-* [Cadenas Estilo Pixel Art](portfolio/ai-generatd-videos/cadenas-estilo-lego.mp4)
+* [Cadenas Estilo Pixel Art](portfolio/ai-generatd-videos/cadenas-estilo-pixel-art.mp4)
 * [Velo Invisible Con Audio](portfolio/ai-generatd-videos/velo-invisible-con-audio.mp4)
 * [Velo Invisible](portfolio/ai-generatd-videos/velo-invisible.mp4)
 * [¿Por qué no encuentras pareja? - Promo 1](portfolio/ai-generatd-videos/por-que-no-encuentras-pareja-promo-1.mp4)
